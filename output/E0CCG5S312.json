@@ -1,16 +1,10 @@
 {
-  "title": "Overview",
+  "title": "Foundation Level Extensions",
   "outline": [
     {
       "level": "H1",
       "text": "Revision History",
       "page": 3,
-      "position": 5
-    },
-    {
-      "level": "H1",
-      "text": "Table of Contents",
-      "page": 4,
       "position": 5
     },
     {
@@ -62,18 +56,6 @@
       "position": 5
     },
     {
-      "level": "H1",
-      "text": "Overview of the Foundation Level Extension Agile Tester",
-      "page": 10,
-      "position": 5
-    },
-    {
-      "level": "H1",
-      "text": "Syllabus",
-      "page": 10,
-      "position": 6
-    },
-    {
       "level": "H2",
       "text": "3.1 Business Outcomes",
       "page": 10,
@@ -92,12 +74,6 @@
       "position": 24
     },
     {
-      "level": "H1",
-      "text": "References",
-      "page": 12,
-      "position": 5
-    },
-    {
       "level": "H2",
       "text": "4.1 Trademarks",
       "page": 12,
@@ -107,7 +83,7 @@
       "level": "H2",
       "text": "4.2 Documents and Web Sites",
       "page": 12,
-      "position": 9
+      "position": 10
     }
   ]
 }
